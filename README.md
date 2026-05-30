@@ -53,8 +53,6 @@ Actualmente trabajo con aplicaciones internas desarrolladas en Django, participa
 
 ## 📌 Proyectos Destacados
 
-## 📌 Proyectos Destacados
-
 ### 🏭 Oracle Test Flow
 
 Aplicación web desarrollada con Django para la gestión y seguimiento del flujo de pruebas de hardware. Incluye administración de unidades, control de estados, trazabilidad, dashboards en tiempo real y herramientas para optimizar procesos de validación.
@@ -79,17 +77,6 @@ Sitio web donde presento mis proyectos, experiencia profesional y tecnologías q
 
 ---
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raychavezdev&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raychavezdev&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ## 🌱 Actualmente aprendiendo
 
